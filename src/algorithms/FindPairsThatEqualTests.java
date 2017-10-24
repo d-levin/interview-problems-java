@@ -1,8 +1,8 @@
-package solutions;
+package algorithms;
 
 import org.junit.Test;
 
-import solutions.FindPairsThatEqual.Pair;
+import algorithms.FindPairsThatEqual.Pair;
 
 public class FindPairsThatEqualTests {
 

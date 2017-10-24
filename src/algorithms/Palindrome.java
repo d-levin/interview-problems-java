@@ -1,4 +1,4 @@
-package solutions;
+package algorithms;
 
 public class Palindrome {
 

@@ -1,4 +1,4 @@
-package solutions;
+package algorithms;
 
 import static org.junit.Assert.assertEquals;
 

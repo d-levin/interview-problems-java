@@ -1,4 +1,4 @@
-package solutions;
+package algorithms;
 
 import org.junit.Test;
 
